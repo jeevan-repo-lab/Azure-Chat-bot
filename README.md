@@ -9,9 +9,6 @@ This repository contains a simple Python chatbot that demonstrates how to connec
 - `run_demo.sh` / `run_demo.bat` - Convenience scripts for Linux/macOS and Windows.
 - `LICENSE` - MIT license.
 
-## Assignment Submission Notes
-- Include this zip file and the GitHub repository URL when submitting to your instructor.
-- Replace the placeholder GitHub URL in this README with your repository link before submission.
 
 ## Setup (local)
 1. Create a Python 3.8+ virtual environment:
