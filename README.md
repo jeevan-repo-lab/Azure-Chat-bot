@@ -41,6 +41,3 @@ This repository contains a simple Python chatbot that demonstrates how to connec
    ```
 5. Interact in the console. Type `exit` or `quit` to stop.
 
-## Notes
-- This project was constructed to satisfy the course assignment "Connecting a Chatbot to an AI-as-a-Service" (Alan L. Dennis, University of the Cumberlands).
-- The code will gracefully degrade to a mocked sentiment analyzer if the Azure SDK or credentials are not available, allowing offline demonstration.
